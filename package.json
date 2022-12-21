@@ -15,12 +15,12 @@
     "license": "ISC",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/nithish1018/wd202-node/.git"
+      "url": "git+https://github.com/hemanth6264/wd202-node/.git"
     },
     "bugs": {
-      "url": "https://github.com/nithin790/hello-node/issues"
+      "url": "https://github.com/hemanth6264/L2/issues"
     },
-    "homepage": "https://github.com/nithin790/hello-node",
+    "homepage": "https://github.com/hemanth6264/L2",
     "dependencies": {
       "minimist": "^1.2.6"
     },
